@@ -12,7 +12,7 @@
 <!-- Typing tagline -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=2500&pause=800&color=FF0080&center=true&vCenter=true&width=900&lines=Final-year+B.Tech+CSE+Student;MERN+Stack+%7C+AI%2FML+%7C+Docker+%26+Cloud;Open+Source+Contributor+%40+microsoft%2Fpresidio;Always+learning%2C+Always+Building"
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=2500&pause=800&color=FF0080&center=true&vCenter=true&width=900&lines=Final-year+B.Tech+CSE+Student;MERN+Stack+%7C+AI%2FML+%7C+Docker+%26+Cloud;Open+Source+Contributor+%40+microsoft%2Fpresidio+%26+google%2Fmcp-security;Always+learning%2C+Always+Building"
     alt="typing intro"
   />
 </p>
@@ -40,10 +40,12 @@
 
 ---
 
-
 ## 🏆 GitHub Achievements  
 
-<img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="100" height="100" alt="Pair Extraordinaire"/>
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="100" height="100" alt="Pair Extraordinaire"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100" height="100" alt="Pull Shark"/>
+</p>
 
 ---
 
@@ -60,9 +62,19 @@
 
 ---
 
+### 📌 google/mcp-security  
+<a href="https://github.com/google/mcp-security">
+  <img src="https://avatars.githubusercontent.com/u/1342004?s=200&v=4" width="60" alt="Google Logo"/>
+</a>  
 
-## 🛠️ Tech Stack & Tools
+- Contributed to **[google/mcp-security](https://github.com/google/mcp-security)**  
+- 📝 PR: [Fix: handle mixed entry types in reference list display](https://github.com/google/mcp-security/pull/175)  
+- ✅ Merged with **16+ changes & community validation** 🎉  
+- Issue resolved: [Error using reference list management tools: 'str' object has no attribute 'value'](https://github.com/google/mcp-security/issues/168)  
 
+---
+
+## 🛠️ Tech Stack & Tools  
 
 ### 🚀 Languages
 <p align="center">
@@ -90,8 +102,10 @@
 <!-- Bottom wave separator -->
 ![stack-footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,100:7928CA&height=90&section=footer)
 
+---
 
 ## 📌 Featured Projects  
+
 - 🔗 [Real-Time-Chat-App](https://github.com/MRADULTRIPATHI/Real-Time-Chat-App) – Modern MERN chat app with real-time messaging, JWT auth, Twilio SMS alerts, and event-driven features powered by Socket.IO & Stream Chat API.  
 - 🔗 [Adobe-India-Hackathon25](https://github.com/MRADULTRIPATHI/Adobe-India-Hackathon25) – Official Round 1 submission featuring a PDF Outline Extractor & Persona-Driven Document Intelligence system.  
 - 🔗 [ASD-Detector](https://github.com/MRADULTRIPATHI/ASD-Detector) – AI-driven platform analyzing behavioral data to detect autism with 85%+ accuracy using TensorFlow & OpenCV.  
@@ -108,6 +122,7 @@
 ### 🔹 LeetCode Stats  
 ![LeetCode Stats](https://leetcard.jacoblin.cool/mradul_tripathi?theme=radical&font=Baloo%202&ext=heatmap)  
 
+---
 
 ## 🌱 Currently Learning  
 - System Design  
