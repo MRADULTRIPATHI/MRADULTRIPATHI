@@ -16,24 +16,32 @@
 ## 🌍 Open Source Contributions  
 
 ### 📌 Meta (Facebook) – Lexical  
-- Contributed to **[facebook/lexical](https://github.com/facebook/lexical)**  
+- **PR Title:** [lexical-react] Bug Fix: guard against undefined option when list shrinks  
+- **PR Type:** Bug Fix  
+- **PR Link:** [#7899](https://github.com/facebook/lexical/pull/7899)  
+- **Issue Link:** [#7897](https://github.com/facebook/lexical/issues/7897)  
 - 🛠 Fixed crash in `LexicalMenu` when options list shrinks.  
-- ✅ Implemented maintainer feedback, passed extended tests, and PR successfully **merged** into main branch.  
+- ✅ Implemented maintainer feedback, passed extended tests, and PR successfully **merged**.  
 
 ---
 
 ### 📌 Microsoft – Presidio  
-- Contributed to **[microsoft/presidio](https://github.com/microsoft/presidio)**  
-- 📝 PR: *Add YAML and Python example for context-aware recognizers*  
+- **PR Title:** Add YAML and Python example for context-aware recognizers  
+- **PR Type:** Documentation Update  
+- **PR Link:** [#1710](https://github.com/microsoft/presidio/pull/1710)  
+- **Issue Link:** [#1684](https://github.com/microsoft/presidio/issues/1684)  
+- 📝 Added YAML + Python example to improve context-aware recognizer docs.  
 - ✅ Merged with **20+ comments & 79+ additions** 🎉  
 
 ---
 
 ### 📌 Google – MCP Security  
-- Contributed to **[google/mcp-security](https://github.com/google/mcp-security)**  
-- 📝 PR: *Fix: handle mixed entry types in reference list display*  
-- ✅ Merged with community validation  
-- Issue resolved: *Error using reference list management tools: 'str' object has no attribute 'value'*  
+- **PR Title:** Fix: handle mixed entry types in reference list display  
+- **PR Type:** Bug Fix  
+- **PR Link:** [#175](https://github.com/google/mcp-security/pull/175)  
+- **Issue Link:** [#168](https://github.com/google/mcp-security/issues/168)  
+- 🛠 Fixed bug in reference list management where mixed entry types caused crashes.  
+- ✅ Merged with community validation, resolving issue *'str' object has no attribute 'value'*.  
 
 ---
 
