@@ -29,7 +29,7 @@
 - **PR Title:** Add YAML and Python example for context-aware recognizers  
 - **PR Type:** Documentation Update  
 - **PR Link:** [#1710](https://github.com/microsoft/presidio/pull/1710)  
-- **Issue Link:** [#1684](https://github.com/microsoft/presidio/issues/1684)  
+- **Issue Link:** [#1696](https://github.com/microsoft/presidio/issues/1696)  
 - 📝 Added YAML + Python example to improve context-aware recognizer docs.  
 - ✅ Merged with **20+ comments & 79+ additions** 🎉  
 
